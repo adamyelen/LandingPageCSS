@@ -6,7 +6,7 @@ This project is focus on CSS/SCSS attributes.
 
 ### Technologies
 
-Sass, CSS with RWD styling.
+CSS(SCSS) with RWD styling.
 
 
 Let check it out
